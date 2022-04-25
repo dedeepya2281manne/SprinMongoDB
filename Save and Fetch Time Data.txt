@@ -1,0 +1,17 @@
+Time to Delete all records : 128
+101 Inserted & Save time is : 49
+Added all books & Save time is : 276
+Book [id=101, author=Chinua Achebe, country=Nigeria, imageLink=images/things-fall-apart.jpg, language=English, link=https://en.wikipedia.org/wiki/Things_Fall_Apart
+, pages=209, title=Things Fall Apart, year=1958] Fetch time is : 4
+Book [id=102, author=Hans Christian Andersen, country=Denmark, imageLink=images/fairy-tales.jpg, language=Danish, link=https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.
+, pages=784, title=Fairy tales, year=1836] Fetch time is : 3
+Book [id=103, author=Dante Alighieri, country=Italy, imageLink=images/the-divine-comedy.jpg, language=Italian, link=https://en.wikipedia.org/wiki/Divine_Comedy
+, pages=928, title=The Divine Comedy, year=1315] Fetch time is : 2
+Book [id=150, author=Franz Kafka, country=Czechoslovakia, imageLink=images/the-castle.jpg, language=German, link=https://en.wikipedia.org/wiki/The_Castle_(novel)
+, pages=352, title=The Castle, year=1926] Fetch time is : 2
+Book [id=155, author=Halldór Laxness, country=Iceland, imageLink=images/independent-people.jpg, language=Icelandic, link=https://en.wikipedia.org/wiki/Independent_People
+, pages=470, title=Independent People, year=1934] Fetch time is : 2
+Book [id=200, author=Marguerite Yourcenar, country=France/Belgium, imageLink=images/memoirs-of-hadrian.jpg, language=French, link=https://en.wikipedia.org/wiki/Memoirs_of_Hadrian
+, pages=408, title=Memoirs of Hadrian, year=1951] Fetch time is : 3
+Book [id=196, author=Vyasa, country=India, imageLink=images/the-mahab-harata.jpg, language=Sanskrit, link=https://en.wikipedia.org/wiki/Mahabharata
+, pages=276, title=Mahabharata, year=-700] Fetch time is : 2

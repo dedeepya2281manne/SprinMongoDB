@@ -25,7 +25,7 @@ public class BookController {
 		long start = System.currentTimeMillis();
 		bookRepository.save(book);
 		long end = System.currentTimeMillis();
-		System.out.println("Save time for one record: " + (end-start));
+		System.out.println(book.getId()+" Inserted & Save time is : " + (end-start));
 		return "Added book with id : "+book.getId();
 	}
 
@@ -34,7 +34,7 @@ public class BookController {
 		long start = System.currentTimeMillis();
 		bookRepository.saveAll(books);
 		long end = System.currentTimeMillis();
-		System.out.println("Save time for all records : " + (end-start));
+		System.out.println("Added all books & Save time is : " + (end-start));
 		return "Added books";
 	}
 
@@ -48,7 +48,7 @@ public class BookController {
 		long start = System.currentTimeMillis();
 		bookRepository.findById(id);
 		long end = System.currentTimeMillis();
-		System.out.println("Fetch time for one record: " + (end-start));
+		System.out.println(bookRepository.findById(id).get()+" Fetch time is : " + (end-start));
 		return bookRepository.findById(id);
 	}
 
